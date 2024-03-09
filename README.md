@@ -1,1 +1,1 @@
-This repo includes all personal projects.
+This repo includes several deep learning personal projects.
